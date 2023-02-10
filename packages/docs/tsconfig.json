@@ -1,0 +1,6 @@
+{
+  "extends": "@spicy/ts-config/react.json",
+  "include": [
+    "src"
+  ],
+}
